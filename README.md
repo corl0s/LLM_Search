@@ -30,7 +30,4 @@ This project is an **LLM-powered AI assistant** enhanced with **live web search 
    - If useful content found, prepends it to the prompt.
 4. The assistant generates a response using context.
 
----
-
-## Architecture
 
